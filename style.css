@@ -1,0 +1,17 @@
+*{
+    margin: 0
+}
+.hello{
+    width: 100vw;
+    height: 100vh;
+    background-color: black;
+    font-size: 3rem;
+    font-weight: bold;
+}
+p{
+    color: white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%)
+}
